@@ -20,7 +20,7 @@ This is a Recipe Page that you can use on your websites.
 
 ### Links
 
-- Live Site URL: [Social Links Profile](https://altindaselif.github.io/social-links-profile-main/)
+- Live Site URL: [Social Links Profile](https://altindaselif.github.io/recipe-page-main/)
 
 ## My process
 
