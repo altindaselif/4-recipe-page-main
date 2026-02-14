@@ -10,8 +10,8 @@ This is a Recipe Page that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/recipe-page-main)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/recipe-page-main/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/4-recipe-page-main)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/4-recipe-page-main/)
 
 ## Built With
 
